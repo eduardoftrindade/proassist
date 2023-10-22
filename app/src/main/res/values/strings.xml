@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assistente de Produção</string>
+    <string name="calculadoraSolucoes">Calculadora de Soluções</string>
+    <string name="calculadoraEficiencia">Calculadora de Eficiência</string>
+    <string name="volume">Escolha o volume:</string>
+    <string name="botao100">100</string>
+    <string name="botao250">250</string>
+    <string name="botao500">500</string>
+    <string name="botao1000">1000</string>
+    <string name="textQtdProgramada">QUANTIDADE PROGRAMADA</string>
+    <string name="textQtdProduzida">QUANTIDADE PRODUZIDA</string>
+    <string name="botaoCalcular">CALCULAR</string>
+    <string name="textA">A</string>
+    <string name="textB">B</string>
+    <string name="textC">C</string>
+    <string name="textD">D</string>
+    <string name="resultadoEficiencia">Eficiência: %1$s%%</string>
+    <string name="textEficiencia">Eficiência: 00,00%</string>
+</resources>
